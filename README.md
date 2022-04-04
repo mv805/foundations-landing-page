@@ -25,7 +25,7 @@ This is a solution to the [Foundations: Landing Page Project](https://www.theodi
 
 ![](./images/screencapture.png)
 
-Example image from The Odin Project files
+Image captured from live website
 
 ### Links
 
