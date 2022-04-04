@@ -2,17 +2,6 @@
 
 This is a solution to the [Foundations: Landing Page Project](https://www.theodinproject.com/lessons/foundations-landing-page). 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The Project](#the-project)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-
 ## Overview
 
 ### The Project
