@@ -1,4 +1,8 @@
-body, main, section, h1, p {
+body,
+main,
+section,
+h1,
+p {
     margin: 0;
 }
 
@@ -61,6 +65,7 @@ nav li {
 main {
     margin: 3rem 0;
 }
+
 .info-header-text {
     text-align: center;
     padding: 2rem 0;
@@ -70,14 +75,17 @@ main {
     display: flex;
     justify-content: space-between;
 }
-.image-bar > figure {
+
+.image-bar>figure {
     width: 10rem;
     text-align: center;
 }
-.image-bar > figure > div {
+
+.image-bar>figure>div {
     height: 10rem;
     width: 100%;
 }
+
 /*|| quote area*/
 
 .quote-text {
@@ -92,7 +100,7 @@ main {
 }
 
 /*|| call to action area*/
-.call-to-action-aside > div{
+.call-to-action-aside>div {
     margin: 5rem 0;
     display: flex;
     justify-content: space-around;
