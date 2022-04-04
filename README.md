@@ -23,7 +23,7 @@ This is a solution to the [Foundations: Landing Page Project](https://www.theodi
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/screencapture.png)
 
 Example image from The Odin Project files
 
