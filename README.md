@@ -6,9 +6,13 @@ This is a solution to the [Foundations: Landing Page Project](https://www.theodi
 
 ### The Project
 
-- Replicate the design goal images, both index site and demo page for format examples
+The goals of this project were to replicate two images of website templates that were supplied in JPEG format. No other hints or help was given and I was to reproduce the design however I saw fit. 
+
+Goals:
+
+- Replicate the design goal images, for both index site and demo page for format examples
 - Use this project to practice basic HTML and CSS skills
-- Mobile responsiveness is not required for now
+- Mobile responsiveness is not required for now and not assessed
 
 ### Screenshot
 
