@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #1f2937;
+}
+
+
+.dark-bg-color {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.header-image {
+    background-color: rgb(89, 94, 107);
+}
+
+.button,
+.call-to-action-color {
+    background-color: #3882F6;
+    color: #f9faf8;
+}
+
+.button {
+    border: 2px solid #3882F6;
+    border-radius: .5rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button:hover {
+    background-color: #2d63b9;
+    border-color: #2d63b9;
+}
+
+.button:active {
+    background-color: #f9faf8;
+    color: #2d63b9;
+
+}
+
+.info-header-text {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.quote-color {
+    background-color: #E5E7EB;
+}
+
+.image-bar > figure > div {
+    border: 2px solid #3882F6;
+    border-radius: .75rem;
+}
+
+.quote-text span {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    text-align: end;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0;
+    /* top | right | bottom | left */
+    padding: 5rem 30rem 5rem 30rem;
+}
+
+.call-to-action-aside > div{
+    background-color: #3882F6;
+    border: 1px solid #3882F6;
+    border-radius: .25rem;
+    color: #f9faf8;
+}
+
+.cta-header {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.call-to-action-aside button {
+    border: 2px solid #f9faf8;
+    background-color: #3882F6;
+    color: #f9faf8;
+    border-radius: .5rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.call-to-action-aside button:hover {
+    background-color: #5092fd;
+}
+
+.call-to-action-aside button:active {
+    background-color: #f9faf8;
+    color: #2d63b9;
+    border-color: #2d63b9;
+}

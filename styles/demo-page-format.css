@@ -1,0 +1,21 @@
+body, p {
+    margin: 0;
+}
+
+.style-demo-header {
+    color: #3882F6;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 48px;
+    border: 2px solid #1f2937;
+}
+
+.demo-format {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.demo-format div {
+    margin: 2rem 0;
+}
